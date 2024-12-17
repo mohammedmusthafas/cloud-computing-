@@ -1,0 +1,427 @@
+  321  cd /
+  322  ls
+  323  cd home
+  324  ls
+  325  cd administrator
+  326  ls
+  327  cd Desktop
+  328  mkdir refer
+  329  cd refer
+  330  mkdir 1
+  331  mkdir 2
+  332  cd 1
+  333  touch file1.txt
+  334  touch file2.txt
+  335  cd ..
+  336  cd 2
+  337  touch file1.txt
+  338  clear
+  339  history
+  340  clear
+  341  history
+  342  clear
+  343  cd /
+  344  cd home
+  345  cd administrator
+  346  cd Desktop
+  347  mkdir PROJECT 41
+  348  mkdir PROJECT 40
+  349  mkdir PROJECT40
+  350  mkdir PROJECT(40)
+  351  cd project40
+  352  cd PROJECT40
+  353  mkdir january
+  354  mkdir february
+  355  mkdir march
+  356  mkdir april
+  357  mkdir may
+  358  mkdir june
+  359  mkdir july
+  360  mkdir august
+  361  mkdir september
+  362  mkdir october
+  363  mkdir november 
+  364  mkdir december
+  365  cd january
+  366  touch usractday1.log
+  367  touch usractday2.log
+  368  touch usractday3.log
+  369  touch usractday4.log
+  370  cd ..
+  371  cd february
+  372  touch usractday1.log
+  373  touch usractday2.log
+  374  touch usractday3.log
+  375  touch usractday4.log
+  376  cd ..
+  377  cd march
+  378  touch usractday1.log
+  379  touch usractday2.log
+  380  touch usractday3.log
+  381  touch usractday4.log
+  382  cd ..
+  383  cd april
+  384  touch usractday1.log
+  385  touch usractday2.log
+  386  touch usractday3.log
+  387  touch usractday4.log
+  388  cd ..
+  389  cd may
+  390  touch usractday1.log
+  391  touch usractday2.log
+  392  touch usractday3.log
+  393  touch usractday4.log
+  394  cd ..
+  395  cd june 
+  396  touch usractday1.log
+  397  touch usractday2.log
+  398  touch usractday3.log
+  399  touch usractday4.log
+  400  cd ..
+  401  cd july
+  402  touch usractday1.log
+  403  touch usractday2.log
+  404  cd ..
+  405  cd august 
+  406  touch usractday1.log
+  407  touch usractday2.log
+  408  cd ..
+  409  cd september 
+  410  touch usractday1.log
+  411  touch usractday2.log
+  412  cd ..
+  413  cd october 
+  414  touch usractday1.log
+  415  touch usractday2.log
+  416  cd .
+  417  cd ..
+  418  cd november 
+  419  touch usractday1.log
+  420  touch usractday2.log
+  421  cd ..
+  422  cd december 
+  423  touch usractday1.log
+  424  touch usractday2.log
+  425  cd ..
+  426  cd january 
+  427  touch usractjan1.log
+  428  touch usractjan2.log
+  429  cd ..
+  430  cd february
+  431  touch usractfeb2.log
+  432  touch usractfeb1.log
+  433  cd ..
+  434  cd march
+  435  touch usractmar1.log
+  436  touch usractmar2.log
+  437  cd ..
+  438  cd april
+  439  touch usractapr1.log
+  440  touch usractapr2.log
+  441  cd..
+  442  cd ..
+  443  cd may
+  444  touch usractmay1.log
+  445  touch usractmay2.log
+  446  cd june
+  447  cd ..
+  448  cd june
+  449  touch usractjun1.log
+  450  touch usractjun2.log
+  451  cd ..
+  452  cd july
+  453  touch usractjul1.log
+  454  touch usractjul2.log
+  455  cd ..
+  456  cd august
+  457  touch usractaug1.log
+  458  touch usractaug2.log
+  459  cd ..
+  460  cd september 
+  461  touch usractsep1.log
+  462  touch usractsep2.log
+  463  cd ..
+  464  cd october 
+  465  touch usractoct1.log
+  466  touch usractoct2.log
+  467  cd november 
+  468  cd ..
+  469  cd november 
+  470  touch usractnoc1.log
+  471  touch usractnov1.log
+  472  touch usractnov2.log
+  473  cd ..
+  474  cd december
+  475  touch usractdec1.log
+  476  touch usractdec2.log
+  477  cd ..
+  478  cd april
+  479  mv -r january Desktop 
+  480  cd january
+  481  mv -r january PROJECT40
+  482  cd ..
+  483  cd  january
+  484  cat > usractjan1.log
+  485  cat usractjan1.log
+  486  cd /
+  487  cd home 
+  488  cd administrator
+  489  cd Desktop
+  490  cd PORJECT40
+  491  cd PROJECT40
+  492  cd january
+  493  mv usractjan1.log feburary
+  494  touch usractjan1.log
+  495  cat >usractjan1.log
+  496  cd ..
+  497  cd feburary
+  498  cd february
+  499  mv usractjan1 feburary
+  500  mv usractjan1.log  feburary
+  501  mv usractjan1.log feburary
+  502  mv february usractjan1.log
+  503  cd ..
+  504  cd january
+  505  cd ..
+  506  cd january
+  507  mv usractjan1.log usractfeb1.log
+  508  cd ..
+  509  cd january
+  510  mv usractjan1.log usractjan1.log
+  511  mv usractfeb1.log usractjan1.log
+  512  cd ..
+  513  mv usractjan1.log usractfeb1.log
+  514  cd february
+  515  mv usractjan1.log usractfeb1.log
+  516  cd ..
+  517  cd january
+  518  mv usractjan1.log february
+  519  mv february usractjan1.log
+  520  mv usractfeb1.log usractjan1.log
+  521  cd ..
+  522  mv usractfeb1.log usractjan1.log
+  523  cd february
+  524  mv usractfeb1.log usractjan1.log
+  525  mv february january usractjan1.log
+  526  cd ..
+  527  cd january
+  528  mv usractjan1.log february
+  529  mv february usractjan1.log
+  530  january february
+  531  mv january feabruary
+  532  cd ..
+  533  cd january
+  534  mv usractjan1.log february/usractfeb1.log
+  535  mv usractjan1.log february /usractfeb1.log
+  536  mv usractjan1.log february / usractfeb1.log
+  537  mv usractjan1.log february >  usractfeb1.log
+  538  cd ..
+  539  cd january
+  540  cd february
+  541  cd ..
+  542  ls
+  543  cd january
+  544  ls
+  545  cd ..
+  546  cd february
+  547  ls 
+  548  cd ..
+  549  cd january
+  550  mv february useractjan1.log
+  551  ls
+  552  mv -r usractjan1.log february
+  553  mv february useractjan1.log
+  554  mv usractfeb1.log  useractjan1.log
+  555  cd 
+  556  cd /
+  557  cd home 
+  558  cd administartor 
+  559  cd Desktop
+  560  cd adminstrator
+  561  cd administrator
+  562  cd Desktop
+  563  cd PROJECT40
+  564  mv usractfeb1.log usractjan1.log
+  565  cd january
+  566  cd ..
+  567  ls
+  568  backendlogdata.txt
+  569  ll backendlogdata.txt
+  570  ls
+  571  touch bckedlogdata.txt
+  572  ls
+  573  ll bckedlogdata.txt
+  574  777 
+  575  777 bckedlogdata.txt
+  576  chmod +e 
+  577  chmod +e bckedlogdata.txt
+  578  chmod e+w bckedlogdata.txt
+  579  chmod e + w bckedlogdata.txt
+  580  chmod e +w bckedlogdata.txt
+  581  chmode e +w bckedlogdata.txt
+  582  chmod 777 bckeddatalog.txt
+  583  chmod 777 bckedlogdata.txt
+  584  ll bckedlogdata.txt
+  585  mkdir backuplogdata
+  586  ls
+  587  cp january february march april june july august september october november december > backuplogdata
+  588  cp-r january february march april june july august september october november december > backuplogdata
+  589  cp -r january february march april june july august september october november december > backuplogdata
+  590  cp -r january backuplogdata
+  591  cp -r february backuplogdata
+  592  cp -r march backuplogdata
+  593  cp -r april backuplogdata
+  594  cp -r may backuplogdata
+  595  cp -r june backuplogdata
+  596  cp -r july backuplogdata
+  597  cp -r august  backuplogdata
+  598  cp -r september   backuplogdata
+  599  cp -r october   backuplogdata
+  600  cp -r november    backuplogdata
+  601  cp -r december     backuplogdata
+  602  cd backuplogdata
+  603  ls 
+  604  cd ..
+  605  rm march
+  606  rm -r march
+  607  ls
+  608  nano script.sh
+  609  vim file1.txt
+  610  script.sh
+  611  nano script.sh
+  612  ./script.sh
+  613  chmod e+a
+  614  chmod -x scrip.sh
+  615  nano script.sh
+  616  ./script.sh
+  617  chmod +x script.sh
+  618  ./script.sh
+  619  nano script.sh
+  620  ./script.sh
+  621  nano script.sh
+  622  ./script.sh
+  623  nano script.sh
+  624  ./script.sh
+  625  nano script.sh
+  626  ./script.sh
+  627  nano script.sh
+  628  ./script.sh
+  629  nano script.sh
+  630  ./script.sh
+  631  nano script.sh
+  632  ./script.sh
+  633  nano script.sh
+  634  ./script.sh
+  635  nano script.sh
+  636  ./script.sh
+  637  nano script.sh
+  638  ./script.sh
+  639  nano script.sh
+  640  ./script.sh
+  641  nano script.sh
+  642  ./script.sh
+  643  nano script.sh
+  644  ./script.sh
+  645  nano script.sh
+  646  ./script.sh
+  647  history
+  648  clear
+  649  history
+  650  cd january
+  651  grep "whatsaap" usractjan1.log
+  652  ls
+  653  clear
+  654  cat /etc/passwd
+  655  ll PROJECT40
+  656  ll usractjan1.log
+  657  cd /
+  658  cd home 
+  659  ls
+  660  cd administrator
+  661  cd Desktop
+  662  cd PROJECT40
+  663  ll usractjan1.log
+  664  chmod 777 january
+  665  ll januray
+  666  ll january
+  667  cd Desktop
+  668  cd PROJECT40
+  669  cd january
+  670  grep "instagram" january
+  671  grep "instagram" usractjan1.log
+  672  nano scrip.sh
+  673  cd ?
+  674  cd /
+  675  cd home 
+  676  ls
+  677  cd administartor
+  678  cd administrator
+  679  ls
+  680  cd Desktop
+  681  cd PROJECT40
+  682  cd january
+  683  grep whtasapap" usractjan1.log
+  684  hello welcome ack
+  685  hello 
+  686  cloud 
+  687  computing
+  688  cd ..
+  689  cat > grep1.txt
+  690  cd PROJECT40
+  691  mv grep1.txt
+  692  mv -r grep1.txt
+  693  touch backend_data.txt
+  694  cat > backend_data.txt
+  695  grep "hello" backend_data.txt
+  696  grep "*o" backend_data.txt
+  697  grep "*h" backend_data.txt
+  698  grep "o?" backend_data.txt
+  699  grep -l "hello" backend_data.txt
+  700  touch backend_data1.txt
+  701  cat > backend_data1.txt
+  702  grep "cloud" backend_data.txt backend_data1.txt
+  703  mkdir usr1
+  704  mkdir usr2
+  705  ll _r usr1
+  706  chmod 777 usr1
+  707  ll usr1
+  708  chmod 777 usr2
+  709  ll usr2
+  710  nano scrip.tsh
+  711  ls 
+  712  cd bckedlogdata.txt
+  713  ls -ld january
+  714  ls -ld file1.txt
+  715  chmod 777 file1.txt
+  716  ll file1.txt
+  717  chmod a+w february
+  718  ls -ld february
+  719  ll march
+  720  ls -ld july
+  721  chmod a+w 757july
+  722  chmod a+w july
+  723  ls -ld july
+  724  ls february
+  725  ls bckedlogdata.txt
+  726  ls
+  727  ls -l bckedlogdata.txt
+  728  cd file1.txt
+  729  cd usr1
+  730  ls
+  731  ls-ld
+  732  ls -ld
+  733  cd .
+  734  cd ..
+  735  nano script.sh
+  736  ./script.sh
+  737  cd DEsktop
+  738  cd ?
+  739  cd /
+  740  cd Desktop
+  741  cd home 
+  742  cd administrator
+  743  cd Desktop
+  744  cd PROJECT 40
+  745  cd PROJECT40
+  746  touch history.txt
+  747  history
